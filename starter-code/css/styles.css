@@ -1,0 +1,40 @@
+.container{
+    margin: 0 auto;
+    width: 500px;
+}
+#input{
+    width: 300px;
+    padding: 5px;
+}
+.btn{
+    width: 300px;
+    display: block;
+    margin-top: 10px;
+    color: white;
+}
+.btn:hover{
+    color: white;
+}
+#btn-add{
+    background-color: #3a85bf
+}
+#btn-take{
+    background-color: #de5e59;
+}
+#stack{
+    margin-top: 20px;
+    margin-bottom: 120px;
+}
+
+.stack-section{
+    background-color: #ededed;
+    height: 50px;
+    width: 300px;
+    border-top: 1px solid white;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
+.active{
+    background-color: #3a85bf
+}
